@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200903.002 1623447963502 release-keys
+- manufacturer: 
+- platform: trinket
+- codename: trinket
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200903.002
+- incremental: 1623447963502
+- tags: release-keys
+- fingerprint: qti/trinket/trinket:11/RKQ1.200903.002/1623447963502:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: qssi-user-11-RKQ1.200903.002-1623447963502-release-keys
+- repo: qti_trinket_dump
